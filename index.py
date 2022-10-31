@@ -1,3 +1,1 @@
-from sqlalchemy import MetaData
-from models.user import users
-meta = MetaData()
+from routes.user import user
