@@ -1,1 +1,1 @@
-from routes.user import user
+from schema.user import User
